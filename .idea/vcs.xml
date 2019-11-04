@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/AIproject2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/AIproject2/AIproject2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/AIproject2/CSC242 project2 - Jungmin Park &amp; Zi Qing Liang/AIproject2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Projects/Project1/checkers/Checkers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Projects/Project3/src" vcs="Git" />
   </component>
 </project>
